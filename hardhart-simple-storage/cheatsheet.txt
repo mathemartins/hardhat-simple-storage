@@ -1,0 +1,29 @@
+deploy command for hardhat
+yarn hardhat run scripts/deploy.js --network goerli
+
+verify contract
+yarn hardhat
+
+run a custom task
+yarn hardhat <task-file-name> --network goerli
+
+run hardhat like ganache in the terminal
+yarn hardhat node
+
+run hardhat console to execute commands like script in the console
+yarn hardhat console --network localhost
+
+clear cache and delete artifacts folder
+yarn hardhat clean
+
+run test
+yarn hardhat test
+
+run specific test (look for a key word in the description that is not anywhere)
+yarn hardhat test --grep <key-word>
+
+run hardhat coverage test to be sure how many lines of code is tested by mocha and chai
+yarn hardhat coverage
+
+------------------- smart contract hacks and unaudited ----------------------------------------------------------------
+https://rekt.news/leaderboard/

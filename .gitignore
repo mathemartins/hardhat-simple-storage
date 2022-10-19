@@ -1,0 +1,6 @@
+artifacts
+node_modules
+.env
+
+cache
+gas-report.txt
