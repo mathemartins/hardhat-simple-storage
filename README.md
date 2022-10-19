@@ -34,15 +34,15 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Simple Storage Remix & Hardhat</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Solidity Smart contract able to be deployed on any EVM Chain, contain Simple Storage Smart Contract and Hardhat Gas Optimization and professionally audited smart contract using Hardhat and Solidity 0.8.7
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://goerli.etherscan.io/address/0x9775757829c3396656cE1Bf70AF47FeA73789643#code">View Contract</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
